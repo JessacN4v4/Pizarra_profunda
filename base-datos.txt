@@ -1,0 +1,100 @@
+Ana Garcia, economica, AJN6445, 16.36 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Laura Fernandez, ejecutiva, AJI5899, 18.59 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Lucia Sanchez, ejecutiva, AJI8508, 17.22 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Ana Martinez, ejecutiva, AJI3372, 20.69 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Sofia Rodriguez, ejecutiva, AJN6445, 43.83 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Ana Lopez, ejecutiva, AJN8304, 40.06 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Lucia Garcia, ejecutiva, AJN3456, 27.76 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Laura Torres, ejecutiva, AJI9370, 39.87 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Ana Gomez, economica, AJI3372, 34.63 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Luis Gomez, ejecutiva, AJN8321, 18.58 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Pedro Gomez, ejecutiva, AJN8321, 26.97 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Carlos Torres, economica, AJN2918, 19.77 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Luis Sanchez, economica, AJN8304, 20.29 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Maria Gomez, economica, AJN2918, 16.91 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Luis Rodriguez, ejecutiva, AJI3372, 22.81 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Ana Lopez, ejecutiva, AJN2918, 32 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Lucia Perez, ejecutiva, AJI8508, 39.43 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Laura Fernandez, ejecutiva, AJI5899, 33.17 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Maria Gomez, ejecutiva, AJI3372, 43.95 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Carlos Lopez, ejecutiva, AJN3456, 30.34 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Ana Gomez, ejecutiva, AJI9370, 27.97 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Luis Ramirez, ejecutiva, AJN6445, 41.97 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Luis Perez, economica, AJI4591, 26.92 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Luis Martinez, ejecutiva, AJN8321, 44.6 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Pedro Torres, economica, AJI5899, 24.81 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Maria Lopez, ejecutiva, AJN6445, 29.17 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Jorge Rodriguez, economica, AJN2918, 40.13 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Lucia Gomez, economica, AJN8304, 20.17 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Luis Ramirez, ejecutiva, AJN2918, 39.5 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Pedro Lopez, economica, AJN6445, 37.24 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Lucia Rodriguez, economica, AJN8304, 30.19 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Pedro Ramirez, economica, AJN2918, 23.46 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Lucia Garcia, ejecutiva, AJI9370, 43.39 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Juan Sanchez, economica, AJI4591, 27.47 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Maria Torres, ejecutiva, AJI5899, 15.79 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Laura Fernandez, ejecutiva, AJN6445, 27.91 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Sofia Garcia, ejecutiva, AJI9370, 22.5 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Luis Fernandez, ejecutiva, AJN2918, 27.73 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Juan Garcia, ejecutiva, AJN2918, 20.45 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Sofia Gomez, economica, AJI4591, 20.42 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Juan Rodriguez, ejecutiva, AJN6445, 24.54 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Juan Ramirez, ejecutiva, AJN2918, 15.44 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Sofia Sanchez, economica, AJN6445, 29.56 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Lucia Lopez, economica, AJN2918, 39.47 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Juan Perez, economica, AJI8508, 15.21 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Lucia Garcia, economica, AJN8304, 36.9 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Lucia Gomez, economica, AJI9370, 33.87 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Juan Martinez, ejecutiva, AJN3456, 15.45 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Miguel Santos, economica, AJN1784, 28.34 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Carmen Herrera, ejecutiva, AJI2156, 31.22 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Roberto Silva, economica, AJN6445, 42.18 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Elena Morales, ejecutiva, AJI8508, 19.66 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Diego Vargas, economica, AJN2918, 35.78 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Isabella Ruiz, ejecutiva, AJI5899, 26.45 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Fernando Castro, economica, AJN8304, 21.33 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Alejandra Vega, ejecutiva, AJI4591, 38.89 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Ricardo Mendez, economica, AJN3456, 44.25 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Valeria Ortiz, ejecutiva, AJI9370, 17.85 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Andres Jimenez, economica, AJN1784, 29.67 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Gabriela Ramos, ejecutiva, AJI2156, 33.45 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Javier Delgado, economica, AJN8321, 18.92 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Natalia Cruz, ejecutiva, AJI3372, 41.56 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Sebastian Flores, economica, AJN6445, 23.78 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Camila Guerrero, ejecutiva, AJI8508, 35.12 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Mauricio Reyes, economica, AJN2918, 27.89 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Daniela Romero, ejecutiva, AJI5899, 14.67 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Emilio Aguilar, economica, AJN8304, 39.24 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Valentina Medina, ejecutiva, AJI4591, 30.56 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Nicolas Navarro, economica, AJN3456, 22.43 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Paula Moreno, ejecutiva, AJI9370, 37.18 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Benjamin Soto, economica, AJN1784, 43.67 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Fernanda Leon, ejecutiva, AJI2156, 25.91 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Gonzalo Pena, economica, AJN8321, 31.75 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Mariana Campos, ejecutiva, AJI3372, 20.38 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Rodrigo Pacheco, economica, AJN6445, 36.82 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Ximena Cabrera, ejecutiva, AJI8508, 42.49 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Santiago Espinoza, economica, AJN2918, 19.54 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Antonia Paredes, ejecutiva, AJI5899, 28.76 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Maximiliano Rojas, economica, AJN8304, 45.13 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Catalina Fuentes, ejecutiva, AJI4591, 16.29 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Ignacio Molina, economica, AJN3456, 34.86 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Francisca Sandoval, ejecutiva, AJI9370, 32.14 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Tomas Gutierrez, economica, AJN1784, 26.57 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Esperanza Donoso, ejecutiva, AJI2156, 38.23 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Cristobal Munoz, economica, AJN8321, 21.96 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Josefina Cortez, ejecutiva, AJI3372, 40.65 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Vicente Araya, economica, AJN6445, 29.41 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Amparo Contreras, ejecutiva, AJI8508, 17.73 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Esteban Henriquez, economica, AJN2918, 33.58 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Constanza Velasco, ejecutiva, AJI5899, 24.85 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Patricio Maldonado, economica, AJN8304, 41.37 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Monserrat Tapia, ejecutiva, AJI4591, 35.69 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Alvaro Lara, economica, AJN3456, 18.48 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Pilar Ibanez, ejecutiva, AJI9370, 27.32 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Joaquin Zuniga, economica, AJN1784, 39.96 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Rocio Carrasco, ejecutiva, AJI2156, 31.47 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Claudio Avila, economica, AJN8321, 44.82 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
+Solange Figueroa, ejecutiva, AJI3372, 22.69 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Marcelo Bravo, economica, AJN6445, 30.25 kg, Sobrepeso: No, Pagado: No aplica, Estado: Registrada
+Isidora Gallardo, ejecutiva, AJI8508, 37.84 kg, Sobrepeso: No, Pagado: No aplica, Estado: No registrada
